@@ -1,2 +1,2 @@
 # Portfolio
-Personal Portfolio using html and css
+Personal Portfolio using html and css.
